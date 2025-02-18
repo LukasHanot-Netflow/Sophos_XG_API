@@ -3,7 +3,7 @@
 This python application communicates directly to Sophos XG(S) devices through it's API.
 
 Requirements
-* Python Module: sophosfirewall_python (pip sophosfirewall_python)
+* Python Module: sophosfirewall-python (pip install sophosfirewall-python)
 * "XIOR_default_guarantee traffic" shaping rule on firewall
 * Activate API access on firewall (Backup & Firmware > API)
 
